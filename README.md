@@ -1,7 +1,7 @@
 
 <p align="center">
 
-# Sistema de gestion de bodega  ![Status badge](https://img.shields.io/badge/status-in%20progress-yellow) ![Status badge](https://img.shields.io/packagist/l/laravel/framework)
+# WEB Scraping "ElPais"  ![Status badge](https://img.shields.io/badge/status-in%20progress-yellow) ![Status badge](https://img.shields.io/packagist/l/laravel/framework)
 </p>
 
 ## 🛠 Requerimientos
